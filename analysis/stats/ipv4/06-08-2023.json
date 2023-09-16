@@ -1,0 +1,194 @@
+{
+    "date": "06-08-2023",
+    "stats": {
+        "id": {
+            "mean": 5710.260157050187,
+            "median": 5868,
+            "count_peers": 2929
+        },
+        "relaytxes": {
+            "mean": 0.9641515875725504,
+            "median": true,
+            "count_peers": 2929
+        },
+        "lastsend": {
+            "mean": 1680340758.6264937,
+            "median": 1691315455,
+            "count_peers": 2929
+        },
+        "lastrecv": {
+            "mean": 1680918191.5090475,
+            "median": 1691315455,
+            "count_peers": 2929
+        },
+        "last_transaction": {
+            "mean": 75642982.13280983,
+            "median": 0,
+            "count_peers": 2929
+        },
+        "last_block": {
+            "mean": 2309698.7586206896,
+            "median": 0,
+            "count_peers": 2929
+        },
+        "bytessent": {
+            "mean": 4624.275520655514,
+            "median": 1333,
+            "count_peers": 2929
+        },
+        "bytesrecv": {
+            "mean": 99781.6975076818,
+            "median": 218,
+            "count_peers": 2929
+        },
+        "conntime": {
+            "mean": 1691311365.7671561,
+            "median": 1691315486,
+            "count_peers": 2929
+        },
+        "timeoffset": {
+            "mean": -1.8210993513144418,
+            "median": 0,
+            "count_peers": 2929
+        },
+        "pingtime": {
+            "mean": 0.3472497903930131,
+            "median": 0.2063015,
+            "count_peers": 2748
+        },
+        "minping": {
+            "mean": 0.3013857288937409,
+            "median": 0.2020305,
+            "count_peers": 2748
+        },
+        "version": {
+            "mean": 69369.7272106521,
+            "median": 70015,
+            "count_peers": 2929
+        },
+        "inbound": {
+            "mean": 0.8310003414134517,
+            "median": true,
+            "count_peers": 2929
+        },
+        "bip152_hb_to": {
+            "mean": 0.0010242403550699897,
+            "median": false,
+            "count_peers": 2929
+        },
+        "bip152_hb_from": {
+            "mean": 0,
+            "median": false,
+            "count_peers": 2929
+        },
+        "startingheight": {
+            "mean": 778976.3878456812,
+            "median": 800894,
+            "count_peers": 2929
+        },
+        "presynced_headers": {
+            "mean": -1,
+            "median": -1,
+            "count_peers": 2929
+        },
+        "synced_headers": {
+            "mean": 120171.64493001024,
+            "median": -1,
+            "count_peers": 2929
+        },
+        "synced_blocks": {
+            "mean": 119911.37043359509,
+            "median": -1,
+            "count_peers": 2929
+        },
+        "addr_relay_enabled": {
+            "mean": 0.19426425401160805,
+            "median": false,
+            "count_peers": 2929
+        },
+        "addr_processed": {
+            "mean": 126.69682485489928,
+            "median": 0,
+            "count_peers": 2929
+        },
+        "addr_rate_limited": {
+            "mean": 0.001707067258449983,
+            "median": 0,
+            "count_peers": 2929
+        },
+        "minfeefilter": {
+            "mean": 4.479214749061113e-06,
+            "median": 0.0,
+            "count_peers": 2929
+        },
+        "bytessent_per_msg": {
+            "feefilter": {
+                "mean": 50.00569800569801,
+                "median": 32.0,
+                "count_peers": 2808
+            },
+            "ping": {
+                "mean": 743.3364186543254,
+                "median": 64,
+                "count_peers": 2809
+            },
+            "pong": {
+                "mean": 973.9455252918287,
+                "median": 32.0,
+                "count_peers": 514
+            },
+            "sendaddrv2": {
+                "mean": 24,
+                "median": 24.0,
+                "count_peers": 404
+            },
+            "sendcmpct": {
+                "mean": 33.05876068376068,
+                "median": 33.0,
+                "count_peers": 2808
+            },
+            "verack": {
+                "mean": 24,
+                "median": 24.0,
+                "count_peers": 2902
+            },
+            "version": {
+                "mean": 127,
+                "median": 127.0,
+                "count_peers": 2910
+            },
+            "wtxidrelay": {
+                "mean": 24,
+                "median": 24.0,
+                "count_peers": 404
+            }
+        },
+        "bytesrecv_per_msg": {
+            "ping": {
+                "mean": 959.5095785440614,
+                "median": 32.0,
+                "count_peers": 522
+            },
+            "pong": {
+                "mean": 754.657980456026,
+                "median": 64,
+                "count_peers": 2763
+            },
+            "sendaddrv2": {
+                "mean": 24,
+                "median": 24.0,
+                "count_peers": 380
+            },
+            "verack": {
+                "mean": 24,
+                "median": 24.0,
+                "count_peers": 2818
+            },
+            "version": {
+                "mean": 134.66414315209911,
+                "median": 129.0,
+                "count_peers": 2906
+            }
+        }
+    }
+}
